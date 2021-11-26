@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ysonbrian/block-smart-contract/issues"
   },
-  "homepage": "https://github.com/ysonbrian/block-smart-contract#readme"
+  "homepage": "https://github.com/ysonbrian/block-smart-contract#readme",
+  "dependencies": {
+    "@remix-project/remixd": "^0.5.3"
+  }
 }
