@@ -147,7 +147,7 @@ contract RPS {
         rooms[roomNum].taker.addr.transfer(
           rooms[roomNum].taker.playerBetAmount
         );
-      }
+
     }
     rooms[roomNum].gameStatus = GameStatus.STATUS_COMPLETE; // 게임이 종료되었으므로 게임 상태 변경
   }
