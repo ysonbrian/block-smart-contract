@@ -1,0 +1,11 @@
+{
+  "name": "ydNFT #1",
+  "description": "This is for testing so do not use it!",
+  "image": "http://naver.me/F00XWMkL",
+  "attributes": [
+    {
+      "trait_type": "Power",
+      "value": "Max"
+    }
+  ]
+}
